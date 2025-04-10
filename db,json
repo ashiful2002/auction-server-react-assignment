@@ -1,0 +1,65 @@
+[
+    {
+        "id": "4",
+        "title": "wrist watch",
+        "description": "A small timepiece worn on the wrist, used for keeping track of time and often styled as a fashion accessory",
+        "currentBidprice": "25",
+        "timeLeft": "12",
+        "BidsCount": "18",
+        "image": "https://i.ibb.co.com/RGtvMpgT/Bid4.png"
+    },
+    {
+        "id": "5",
+        "title": "chair ",
+        "description": "A piece of furniture designed for sitting, typically with four legs and a backrest.",
+        "currentBidprice": "12",
+        "timeLeft": "5",
+        "BidsCount": "7",
+        "image": "https://i.ibb.co.com/qF46ckHN/Bid5.png"
+    },
+    {
+        "id": "6",
+        "title": "book",
+        "description": "A set of printed or digital pages bound together, containing text or illustrations for reading or reference.",
+        "currentBidprice": "30",
+        "timeLeft": "3",
+        "BidsCount": "12",
+        "image": "https://i.ibb.co.com/Q3J0y3Gj/Bid6.png"
+    },
+    {
+        "id": "7",
+        "title": "flower",
+        "description": "The colorful, often fragrant part of a plant, used for reproduction and admired for its beauty.",
+        "currentBidprice": "5",
+        "timeLeft": "5",
+        "BidsCount": "5",
+        "image": "https://i.ibb.co.com/DgDYj9TL/Bid7.png"
+    },
+    {
+        "id": "1",
+        "title": "camera",
+        "description": "A device used to capture photographs or record videos, available in both digital and analog formats.",
+        "currentBidprice": "200",
+        "timeLeft": "15",
+        "BidsCount": "24",
+        "image": "https://i.ibb.co.com/PGQY3BL3/Bid1-min.png"
+    },
+    {
+        "id": "2",
+        "title": "guitar",
+        "description": "A stringed musical instrument played by strumming or plucking, used in many music genres.",
+        "currentBidprice": "150",
+        "timeLeft": "9",
+        "BidsCount": "15",
+        "image": "https://i.ibb.co.com/GQWQs2rt/Bid2.png"
+    },
+    {
+        "id": "3",
+        "title": "laptop",
+        "description": "A portable personal computer with a built-in screen and keyboard, ideal for work or entertainment on the go.",
+        "currentBidprice": "400",
+        "timeLeft": "22",
+        "BidsCount": "29",
+        "image": "https://i.ibb.co.com/LDHXpqM5/Bid3.png"
+    }
+]
