@@ -1,7 +1,7 @@
 [
     {
         "id": "4",
-        "title": "wrist watch",
+        "title": "Rolex Submariner 16610",
         "description": "A small timepiece worn on the wrist, used for keeping track of time and often styled as a fashion accessory",
         "currentBidprice": "25",
         "timeLeft": "12",
@@ -10,7 +10,8 @@
     },
     {
         "id": "5",
-        "title": "chair ",
+        "title": "Mid-Century Modern Eames Lounge Chair
+ ",
         "description": "A piece of furniture designed for sitting, typically with four legs and a backrest.",
         "currentBidprice": "12",
         "timeLeft": "5",
@@ -19,7 +20,7 @@
     },
     {
         "id": "6",
-        "title": "book",
+        "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
         "description": "A set of printed or digital pages bound together, containing text or illustrations for reading or reference.",
         "currentBidprice": "30",
         "timeLeft": "3",
@@ -28,7 +29,8 @@
     },
     {
         "id": "7",
-        "title": "flower",
+        "title": "Banksy Original Screen Print
+",
         "description": "The colorful, often fragrant part of a plant, used for reproduction and admired for its beauty.",
         "currentBidprice": "5",
         "timeLeft": "5",
@@ -37,7 +39,7 @@
     },
     {
         "id": "1",
-        "title": "camera",
+        "title": "Vintage Leica M3 Camera",
         "description": "A device used to capture photographs or record videos, available in both digital and analog formats.",
         "currentBidprice": "200",
         "timeLeft": "15",
@@ -46,7 +48,8 @@
     },
     {
         "id": "2",
-        "title": "guitar",
+        "title": "1965 Gibson SG Standard Electric Guitar
+",
         "description": "A stringed musical instrument played by strumming or plucking, used in many music genres.",
         "currentBidprice": "150",
         "timeLeft": "9",
@@ -55,7 +58,8 @@
     },
     {
         "id": "3",
-        "title": "laptop",
+        "title": "Original Apple Macintosh 128K (1984)
+",
         "description": "A portable personal computer with a built-in screen and keyboard, ideal for work or entertainment on the go.",
         "currentBidprice": "400",
         "timeLeft": "22",
