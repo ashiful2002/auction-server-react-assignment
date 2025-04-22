@@ -10,7 +10,7 @@
     "availableDays": ["Sunday", "Tuesday", "Thursday"],
     "workingAt": "Square Hospital, Dhaka",
     "fee": 800,
-    "image": "https://randomuser.me/api/portraits/men/10.jpg"
+    "image": "https://i.ibb.co.com/1GhBwqzq/agomony.jpg"
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
     "availableDays": ["Monday", "Wednesday", "Saturday"],
     "workingAt": "Labaid Hospital, Dhaka",
     "fee": 700,
-    "image": "https://randomuser.me/api/portraits/men/11.jpg"
+    "image": "https://i.ibb.co.com/tTFvXgK7/rubel.jpg"
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
     "availableDays": ["Tuesday", "Thursday"],
     "workingAt": "Apollo Hospital, Dhaka",
     "fee": 1000,
-    "image": "https://randomuser.me/api/portraits/men/12.jpg"
+    "image": "https://i.ibb.co.com/SwRCDDBV/biddut.jpg"
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
     "availableDays": ["Sunday", "Tuesday", "Friday"],
     "workingAt": "United Hospital, Dhaka",
     "fee": 750,
-    "image": "https://randomuser.me/api/portraits/women/13.jpg"
+    "image": "https://i.ibb.co.com/5hhm3DV5/tanjila.jpg"
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
     "availableDays": ["Monday", "Thursday"],
     "workingAt": "Popular Diagnostic Center",
     "fee": 600,
-    "image": "https://randomuser.me/api/portraits/men/14.jpg"
+    "image": "https://i.ibb.co.com/W48hj3y9/arnob.jpg"
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
     "availableDays": ["Sunday", "Tuesday", "Thursday", "Saturday"],
     "workingAt": "Evercare Hospital, Dhaka",
     "fee": 900,
-    "image": "https://randomuser.me/api/portraits/women/15.jpg"
+    "image": "https://i.ibb.co.com/wZzCLvsK/takia.jpg"
   },
   {
     "id": 7,
@@ -83,12 +83,12 @@
     "availability": true,
     "yearsOfExperience": 11,
     "degree": "MBBS, FCPS (Surgery)",
-    "institution": "Dhaka Medical College",
+    "institution": "Rangpur Medical College",
     "regNumber": "BMDC-778899",
     "availableDays": ["Monday", "Wednesday", "Friday"],
     "workingAt": "Ibn Sina Hospital, Dhanmondi",
     "fee": 850,
-    "image": "https://randomuser.me/api/portraits/men/16.jpg"
+    "image": "https://i.ibb.co.com/TDZHcdsv/sumon.jpg"
   },
   {
     "id": 8,
@@ -114,7 +114,7 @@
     "availableDays": ["Monday", "Thursday", "Saturday"],
     "workingAt": "Care Medical Center",
     "fee": 550,
-    "image": "https://randomuser.me/api/portraits/men/18.jpg"
+    "image": "https://i.ibb.co.com/n9gC3M1/mithun.jpg"
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
     "availableDays": ["Sunday", "Tuesday"],
     "workingAt": "Al-Manar Hospital",
     "fee": 950,
-    "image": "https://randomuser.me/api/portraits/men/19.jpg"
+    "image": "https://i.ibb.co.com/r23qqdpJ/badol.jpg"
   },
   {
     "id": 11,
