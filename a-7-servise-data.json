@@ -1,26 +1,26 @@
- [
-    {
-      id: 1,
-      image: "https://i.ibb.co.com/FkKBVR6f/success-doctor.png",
-      countupEnd: 199,
-      title: "Total Doctors",
-    },
-    {
-      id: 2,
-      image: "https://i.ibb.co.com/n8msZb6J/success-review.png",
-      countupEnd: 467,
-      title: "Total Reviews",
-    },
-    {
-      id: 3,
-      image: "https://i.ibb.co.com/fVvtT1Kr/success-patients.png",
-      countupEnd: 190,
-      title: "Total Patients",
-    },
-    {
-      id: 4,
-      image: "https://i.ibb.co.com/0R4bRT04/success-staffs.png",
-      countupEnd: 300,
-      title: "Total Stuffs",
-    },
-  ];
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/FkKBVR6/success-doctor.png",
+    "countupEnd": 199,
+    "title": "Total Doctors"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/n8msZb6/success-review.png",
+    "countupEnd": 467,
+    "title": "Total Reviews"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/fVvtT1K/success-patients.png",
+    "countupEnd": 190,
+    "title": "Total Patients"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/0R4bRT0/success-staffs.png",
+    "countupEnd": 300,
+    "title": "Total Stuffs"
+  }
+]
