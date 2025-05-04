@@ -1,0 +1,120 @@
+{
+    "company": {
+      "name": "DriveEase Rentals",
+      "logo": {
+        "url": "https://via.placeholder.com/150x50?text=DriveEase+Logo",
+        "alt": "DriveEase Rentals Logo"
+      }
+    },
+    "vehicles": [
+      {
+        "id": "VEH001",
+        "type": "SUV",
+        "make": "Toyota",
+        "model": "RAV4",
+        "year": 2022,
+        "daily_rate": 65,
+        "photo": "https://via.placeholder.com/300x200?text=Toyota+RAV4"
+      },
+      {
+        "id": "VEH002",
+        "type": "Sedan",
+        "make": "Honda",
+        "model": "Accord",
+        "year": 2021,
+        "daily_rate": 55,
+        "photo": "https://via.placeholder.com/300x200?text=Honda+Accord"
+      },
+      {
+        "id": "VEH003",
+        "type": "Hatchback",
+        "make": "Volkswagen",
+        "model": "Golf",
+        "year": 2023,
+        "daily_rate": 50,
+        "photo": "https://via.placeholder.com/300x200?text=VW+Golf"
+      },
+      {
+        "id": "VEH004",
+        "type": "Luxury",
+        "make": "BMW",
+        "model": "5 Series",
+        "year": 2023,
+        "daily_rate": 120,
+        "photo": "https://via.placeholder.com/300x200?text=BMW+5+Series"
+      },
+      {
+        "id": "VEH005",
+        "type": "Pickup",
+        "make": "Ford",
+        "model": "F-150",
+        "year": 2022,
+        "daily_rate": 75,
+        "photo": "https://via.placeholder.com/300x200?text=Ford+F150"
+      },
+      {
+        "id": "VEH006",
+        "type": "Convertible",
+        "make": "Mazda",
+        "model": "MX-5 Miata",
+        "year": 2021,
+        "daily_rate": 85,
+        "photo": "https://via.placeholder.com/300x200?text=Mazda+MX-5"
+      },
+      {
+        "id": "VEH007",
+        "type": "Minivan",
+        "make": "Chrysler",
+        "model": "Pacifica",
+        "year": 2022,
+        "daily_rate": 60,
+        "photo": "https://via.placeholder.com/300x200?text=Chrysler+Pacifica"
+      },
+      {
+        "id": "VEH008",
+        "type": "Electric",
+        "make": "Tesla",
+        "model": "Model 3",
+        "year": 2023,
+        "daily_rate": 90,
+        "photo": "https://via.placeholder.com/300x200?text=Tesla+Model+3"
+      },
+      {
+        "id": "VEH009",
+        "type": "Sedan",
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2020,
+        "daily_rate": 48,
+        "photo": "https://via.placeholder.com/300x200?text=Nissan+Altima"
+      },
+      {
+        "id": "VEH010",
+        "type": "SUV",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "year": 2022,
+        "daily_rate": 58,
+        "photo": "https://via.placeholder.com/300x200?text=Hyundai+Tucson"
+      },
+      {
+        "id": "VEH011",
+        "type": "Luxury",
+        "make": "Audi",
+        "model": "A6",
+        "year": 2023,
+        "daily_rate": 115,
+        "photo": "https://via.placeholder.com/300x200?text=Audi+A6"
+      },
+      {
+        "id": "VEH012",
+        "type": "Electric",
+        "make": "Kia",
+        "model": "EV6",
+        "year": 2023,
+        "daily_rate": 80,
+        "photo": "https://via.placeholder.com/300x200?text=Kia+EV6"
+      }
+    ]
+  }
+  
